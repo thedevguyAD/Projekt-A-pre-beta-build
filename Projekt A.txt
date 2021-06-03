@@ -1,0 +1,29 @@
+1) Playing Character - Spaceship✅
+2) Non-Playing Character - Aliens , Boss Alien✅
+3) StoryLine - Aliens have finally come to invade our planet earth . As the first line of defense , your job is 
+to defeat the aliens coming in different but tougher waves and then a boss will come at the end
+4) Main Goal - If you win the fight  , endscreen will come saying that you have won✅ 
+5) Rules - 
+	Controls - Left and Right Key✅
+	Space for shoot✅
+	Right Click - Ultimate Ability (comes when you kill 50 aliens)
+	Scoring system - To show the no. of enemies killed✅
+	
+6) Adaptivity - There are no levels , but there are different waves in which aliens of increasing number and difficulty 
+will come
+7) Chance vs Skill -
+	Chance - Aliens coming from random directions✅
+	Skills - The efficiency in killing aliens in such a way that it becomes  "easier"✅
+8) Feedback -
+	If kills 5 aliens - Defender
+	If kills 10 aliens - Protector
+	If kills 15 aliens - Relentless
+	If kills 25 aliens - Bloodthirsty
+	If kills 35 kills - Brutal
+	If kills 50 kills - Monstrous
+	If kills 50 kills + defeating the boss - Legendary Terminator 
+	
+	currently in developement
+	
+	
+	
