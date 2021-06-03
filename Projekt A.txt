@@ -14,7 +14,7 @@ will come
 7) Chance vs Skill -
 	Chance - Aliens coming from random directions✅
 	Skills - The efficiency in killing aliens in such a way that it becomes  "easier"✅
-8) Feedback -
+8) Feedback - (This would come in the pre-release launch
 	If kills 5 aliens - Defender
 	If kills 10 aliens - Protector
 	If kills 15 aliens - Relentless
