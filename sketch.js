@@ -182,11 +182,11 @@ function keyPressed(){
 
     // Achievement 2 reward
     if(score > 1000 && keyCode == LEFT_ARROW){
-        player.velocityX = -15;
+        player.velocityX = -13;
     }
 
     if(score > 1000 && keyCode == RIGHT_ARROW){
-        player.velocityX = 15;
+        player.velocityX = 13;
     }
 
 
