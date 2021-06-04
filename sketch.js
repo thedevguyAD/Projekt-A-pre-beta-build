@@ -68,6 +68,7 @@ function setup(){
     restart.visible = false;
 
     bgSound.play();
+    bgSound.setLoop(true);
 
 }
 
