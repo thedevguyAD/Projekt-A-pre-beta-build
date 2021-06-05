@@ -109,6 +109,19 @@ function draw(){
     }
 
 
+	//Patching Multiple Space bar tapping exploit
+	if(bulletGroup.isTouching(alienGroup) = false){
+		score = score-10;
+	}
+	
+	if(bulletGroup.isTouching(monsterGroup) = false{
+		score = score-20;
+	}
+	
+	if(bulletGroup.isTouching(bossAlienGroup) = false){
+		score = score - 30 ;
+	}
+
 
 
     drawSprites();
@@ -253,18 +266,4 @@ function reset(){
     bossAlienGroup.destroyEach();
 }
 
-/*
-	A temporary idea to patch the space button exploit
-	
-	if(bulletGroup.isTouching(alienGroup) = false){
-		score = score-10;
-	}
-	
-	if(bulletGroup.isTouching(monsterGroup) = false{
-		score = score-20;
-	}
-	
-	if(bulletGroup.isTouching(bossAlienGroup) = false){
-		score = score - 30 ;
-	}
-*/
+
