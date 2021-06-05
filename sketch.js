@@ -266,4 +266,3 @@ function reset(){
     bossAlienGroup.destroyEach();
 }
 
-
