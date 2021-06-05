@@ -108,7 +108,7 @@ function draw(){
         }
     }
 
-
+	/*
 	//Patching Multiple Space bar tapping exploit
 	if(bulletGroup.isTouching(alienGroup) = false){
 		score = score-10;
@@ -120,7 +120,8 @@ function draw(){
 	
 	if(bulletGroup.isTouching(bossAlienGroup) = false){
 		score = score - 30 ;
-	}
+	} 
+	*/
 
 
 
