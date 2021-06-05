@@ -252,3 +252,19 @@ function reset(){
     monsterGroup.destroyEach();
     bossAlienGroup.destroyEach();
 }
+
+/*
+	A temporary idea to patch the space button exploit
+	
+	if(bulletGroup.isTouching(alienGroup) = false){
+		score = score-10;
+	}
+	
+	if(bulletGroup.isTouching(monsterGroup) = false{
+		score = score-20;
+	}
+	
+	if(bulletGroup.isTouching(bossAlienGroup) = false){
+		score = score - 30 ;
+	}
+*/
