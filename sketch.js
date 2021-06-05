@@ -114,7 +114,7 @@ function draw(){
 		score = score-10;
 	}
 	
-	if(bulletGroup.isTouching(monsterGroup) = false{
+	if(bulletGroup.isTouching(monsterGroup) = false){
 		score = score-20;
 	}
 	
